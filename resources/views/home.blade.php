@@ -7,13 +7,32 @@
     <title>Home</title>
     @vite('resources/sass/app.scss')
     <link rel="stylesheet" href="{{ URL::asset('css/style.css'); }}">
+
+    <style>
+        .gambar-container {
+            display: flex;
+        }
+        .gambar-container img {
+            margin-right: 10px; /* Atur margin antara gambar */
+        }
+        .gambar-container {
+            width: 100px; /* Atur lebar gambar sesuai kebutuhan */
+            height: 400px; /* Biarkan tinggi otomatis agar gambar tetap proporsional */
+        }
+        .gambar-container {
+            margin-top: 30px;
+        }
+        .video-container {
+            margin-top: 30px
+        }
+    </style>
 </head>
 <body>
     <nav class="site-nav">
         <div class="container">
           <div class="menu-bg-wrap">
             <div class="site-navigation">
-              <a href="index.html" class="logo m-0 float-start">Property</a>
+              <a href="index.html" class="logo m-0 float-start">Website Resmi RE/MAX Eagle Indonesia</a>
 
               <ul
                 class="js-clone-nav d-none d-lg-inline-block text-start site-menu float-end"
@@ -61,10 +80,21 @@
         <hr>
         <div class="d-flex align-items-center py-2 px-4 bg-light rounded-3 border">
             <div class="bi-house-fill me-3 fs-1"></div>
-            <h4 class="mb-0">Well done! this is Home.</h4>
+            <h4 class="mb-0">Kabar Berita RE/MAX Eagle Indonesia </h4>
         </div>
     </div>
 {{-- @endsection --}}
     @vite('resources/js/app.js')
+
+    <div class="gambar-container">
+        <img src="{{ Vite::asset('resources/images/rumahdijual.png') }}" alt="Gambar 1">
+        <img src="{{ Vite::asset('resources/images/rumahdijual.png') }}" alt="Gambar 2">
+    </div>
+
+    <div class="video-container">
+    <video width="640" height="360" controls>
+    <source src="rumahdijual.mp4" type="video/mp4">
+    </div>
+
 </body>
 </html

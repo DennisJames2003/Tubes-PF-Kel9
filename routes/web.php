@@ -115,3 +115,27 @@ Route::get('getagents', [AgentController::class, 'getData'])->name('agents.getDa
 Route::get('exportExcel', [AgentController::class, 'exportExcel'])->name('agents.exportExcel');
 
 Route::get('exportPdf', [AgentController::class, 'exportPdf'])->name('agents.exportPdf');
+
+Route::get('/properties', function () {
+    return view('properties');
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/property-single', function () {
+    return view('property-single');
+});
+
+Route::get('/services', function () {
+    return view('services');
+});

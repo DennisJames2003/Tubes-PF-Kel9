@@ -22,15 +22,12 @@ use App\Http\Controllers\Auth\LoginController;
 Route::get('/', function () {
     return view('auth.login');
 });
-Route::get('home', [HomeController::class, 'index'])->name('home');
 Route::get('profile', ProfileController::class)->name('profile');
 Route::resource('agents', AgentController::class);
 Route::get('/agents/{agent}/edit', [AgentController::class, 'edit'])->name('agents.edit');
 Route::put('/agents/{agent}', [AgentController::class, 'update'])->name('agents.update');
 
 Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Route::get('/local-disk', function() {
     Storage::disk('local')->put('local-example.txt', 'This is local example content');
@@ -115,6 +112,14 @@ Route::get('getagents', [AgentController::class, 'getData'])->name('agents.getDa
 Route::get('exportExcel', [AgentController::class, 'exportExcel'])->name('agents.exportExcel');
 
 Route::get('exportPdf', [AgentController::class, 'exportPdf'])->name('agents.exportPdf');
+
+Route::get('/home', function () {
+    return view('index');
+});
+
+Route::get('/', function () {
+    return view('index');
+});
 
 Route::get('/properties', function () {
     return view('properties');

@@ -96,5 +96,17 @@
     <source src="rumahdijual.mp4" type="video/mp4">
     </div>
 
+<form action="{{ route('user.upload.photo') }}" method="post" enctype="multipart/form-data">
+    @csrf
+    <input type="file" name="photo" id="photo">
+    <button type="submit">Unggah Foto</button>
+</form>
+
+<video width="320" height="240" controls>
+  <source src="rumahdijual.mp4" type="video/mp4">
+  <source src="rumahdijual.mp4" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
 </body>
 </html

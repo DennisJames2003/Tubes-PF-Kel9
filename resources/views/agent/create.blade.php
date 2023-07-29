@@ -20,14 +20,14 @@
                 <hr class="d-lg-none text-white-50">
 
                 <ul class="navbar-nav flex-row flex-wrap">
-                    <li class="nav-item col-6 col-md-auto"><a href="{{ route('home') }}" class="nav-link">Home</a></li>
+                    <li class="nav-item col-6 col-md-auto"><a href="{{ route('home') }}" class="nav-link">home</a></li>
                     <li class="nav-item col-6 col-md-auto"><a href="{{ route('agents.index') }}" class="nav-link">Agent List</a></li>
                 </ul>
 
                 {{-- <hr class="d-lg-none text-white-50"> --}}
                 <div style="margin-left: 600px;" class="dropdown">
                     <button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-person-fill"></i>
-                        {{ Auth::user()->name }}
+                        {{-- {{ Auth::user()->name }} --}}
                     </button>
                     <ul class="dropdown-menu">
                       <li><a class="dropdown-item" href="{{ route('profile') }}"><i class="bi-person-circle me-1"></i>Profile</a></li>

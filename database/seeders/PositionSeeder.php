@@ -12,6 +12,23 @@ class PositionSeeder extends Seeder
      */
     public function run(): void
     {
-        Position::factory()->count(5)->create();
+
+        DB::table('positions')->insert([
+            [
+                'code' => 'JC',
+                'name' => 'Junior Consultant',
+                'description' => 'Junior Consultant'
+            ],
+            [
+                'code' => 'SC',
+                'name' => 'Senior Consultant',
+                'description' => 'Senior Consultant '
+            ],
+            [
+                'code' => 'PC',
+                'name' => 'Principal Consultant',
+                'description' => 'Principal Consultant'
+            ],
+        ]);
     }
 }

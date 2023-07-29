@@ -15,11 +15,13 @@ class PositionFactory extends Factory
      */
     public function definition(): array
     {
-        return [
-            'code' => fake()->stateAbbr(),
-            'name' => fake()->jobTitle(),
-            'description' => fake()->sentence(),
+//
+// return [
+//     'code' => $this->faker->randomElement(['JC', 'SC', 'PC']),
+//     'name' => $this->faker->randomElement(['Junior Consultant', 'Senior Consultant', 'Principal Consultant']),
+//     'description' => '',
+// ];
 
-        ];
+
     }
 }

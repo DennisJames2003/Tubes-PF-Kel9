@@ -80,6 +80,12 @@
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+                        </span>
+                        <span class="d-block d-flex align-items-center">
+                          <span class="icon-bath me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+=======
                           <span class="caption">2 beds</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
@@ -113,6 +119,12 @@
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
+
+                          <span class="caption">2 Kamar Tidur</span>
+                        </span>
+                        <span class="d-block d-flex align-items-center">
+                          <span class="icon-bath me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
                           <span class="caption">2 beds</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
@@ -146,6 +158,12 @@
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+                        </span>
+                        <span class="d-block d-flex align-items-center">
+                          <span class="icon-bath me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+
                           <span class="caption">2 beds</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
@@ -179,6 +197,13 @@
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
+
+                          <span class="caption">2 Kamar Tidur</span>
+                        </span>
+                        <span class="d-block d-flex align-items-center">
+                          <span class="icon-bath me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+=======
                           <span class="caption">2 beds</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
@@ -212,6 +237,12 @@
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+                        </span>
+                        <span class="d-block d-flex align-items-center">
+                          <span class="icon-bath me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+=======
                           <span class="caption">2 beds</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
@@ -245,6 +276,12 @@
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+                        </span>
+                        <span class="d-block d-flex align-items-center">
+                          <span class="icon-bath me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+=======
                           <span class="caption">2 beds</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
@@ -278,6 +315,12 @@
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+                        </span>
+                        <span class="d-block d-flex align-items-center">
+                          <span class="icon-bath me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+=======
                           <span class="caption">2 beds</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
@@ -311,6 +354,12 @@
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+                        </span>
+                        <span class="d-block d-flex align-items-center">
+                          <span class="icon-bath me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+=======
                           <span class="caption">2 beds</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
@@ -344,6 +393,12 @@
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+                        </span>
+                        <span class="d-block d-flex align-items-center">
+                          <span class="icon-bath me-2"></span>
+                          <span class="caption">2 Kamar Tidur</span>
+=======
                           <span class="caption">2 beds</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
@@ -395,44 +450,66 @@
           <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
             <div class="box-feature">
               <span class="flaticon-house"></span>
+
+              <h3 class="mb-3">Properti Kami</h3>
+=======
               <h3 class="mb-3">Our Properties</h3>
+
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Voluptates, accusamus.
               </p>
+
+              <p><a href="#" class="learn-more">Pelajari Lebih Banyak</a></p>
+=======
               <p><a href="#" class="learn-more">Learn More</a></p>
             </div>
           </div>
           <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="500">
             <div class="box-feature">
               <span class="flaticon-building"></span>
+
+              <h3 class="mb-3">Properti yang Dijual</h3>
+=======
               <h3 class="mb-3">Property for Sale</h3>
+
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Voluptates, accusamus.
               </p>
+
+              <p><a href="#" class="learn-more">Pelajari Lebih Banyak</a></p>
+=======
               <p><a href="#" class="learn-more">Learn More</a></p>
             </div>
           </div>
           <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
             <div class="box-feature">
               <span class="flaticon-house-3"></span>
+              <h3 class="mb-3">Agen Handal</h3>
+=======
               <h3 class="mb-3">Real Estate Agent</h3>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Voluptates, accusamus.
               </p>
+              <p><a href="#" class="learn-more">Pelajari Lebih Banyak</a></p>
+=======
               <p><a href="#" class="learn-more">Learn More</a></p>
             </div>
           </div>
           <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="600">
             <div class="box-feature">
               <span class="flaticon-house-1"></span>
+              <h3 class="mb-3">Rumah Untuk dijual</h3>
+=======
               <h3 class="mb-3">House for Sale</h3>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Voluptates, accusamus.
               </p>
+              <p><a href="#" class="learn-more">Pelajari Lebih Banyak</a></p>
+=======
               <p><a href="#" class="learn-more">Learn More</a></p>
             </div>
           </div>
@@ -445,11 +522,18 @@
         <div class="row mb-5 align-items-center">
           <div class="col-md-6">
             <h2 class="font-weight-bold heading text-primary mb-4 mb-md-0">
+
+              Apa Kata Mereka?
+=======
               Customer Says
             </h2>
           </div>
           <div class="col-md-6 text-md-end">
             <div id="testimonial-nav">
+              <span class="prev" data-controls="prev">Sebelumnya</span>
+
+              <span class="next" data-controls="next">Selanjutnya</span>
+=======
               <span class="prev" data-controls="prev">Prev</span>
 
               <span class="next" data-controls="next">Next</span>
@@ -579,7 +663,10 @@
         <div class="row justify-content-center text-center mb-5">
           <div class="col-lg-5">
             <h2 class="font-weight-bold heading text-primary mb-4">
+              Temukan Hunian yang Sempurna bagi Anda!
+=======
               Let's find home that's perfect for you
+
             </h2>
             <p class="text-black-50">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
@@ -599,6 +686,8 @@
                 <span class="icon-home2"></span>
               </span>
               <div class="feature-text">
+                <h3 class="heading">2M Properti</h3>
+=======
                 <h3 class="heading">2M Properties</h3>
                 <p class="text-black-50">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -612,6 +701,8 @@
                 <span class="icon-person"></span>
               </span>
               <div class="feature-text">
+                <h3 class="heading">Top Agen</h3>
+=======
                 <h3 class="heading">Top Rated Agents</h3>
                 <p class="text-black-50">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -625,7 +716,10 @@
                 <span class="icon-security"></span>
               </span>
               <div class="feature-text">
+                <h3 class="heading">Legit Properti</h3>
+=======
                 <h3 class="heading">Legit Properties</h3>
+
                 <p class="text-black-50">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Nostrum iste.
@@ -644,6 +738,9 @@
               <span class="number"
                 ><span class="countup text-primary">3298</span></span
               >
+
+              <span class="caption text-black-50"># Properti Telah Terjual</span>
+=======
               <span class="caption text-black-50"># of Buy Properties</span>
             </div>
           </div>
@@ -656,6 +753,8 @@
               <span class="number"
                 ><span class="countup text-primary">2181</span></span
               >
+              <span class="caption text-black-50"># Properti yang Dijual</span>
+=======
               <span class="caption text-black-50"># of Sell Properties</span>
             </div>
           </div>
@@ -668,6 +767,8 @@
               <span class="number"
                 ><span class="countup text-primary">9316</span></span
               >
+              <span class="caption text-black-50"># Total Properti</span>
+=======
               <span class="caption text-black-50"># of All Properties</span>
             </div>
           </div>
@@ -678,6 +779,10 @@
           >
             <div class="counter-wrap mb-5 mb-lg-0">
               <span class="number"
+                ><span class="countup text-primary">4</span></span
+              >
+              <span class="caption text-black-50"># Agen</span>
+=======
                 ><span class="countup text-primary">7191</span></span
               >
               <span class="caption text-black-50"># of Agents</span>
@@ -690,13 +795,18 @@
     <div class="section">
       <div class="row justify-content-center footer-cta" data-aos="fade-up">
         <div class="col-lg-7 mx-auto text-center">
+          <h2 class="mb-4">Jadilah Bagian Dari Kami!</h2>
+=======
           <h2 class="mb-4">Be a part of our growing real state agents</h2>
           <p>
             <a
               href="#"
               target="_blank"
               class="btn btn-primary text-white py-3 px-4"
+              >Daftar Menjadi Agen</a
+=======
               >Apply for Real Estate agent</a
+
             >
           </p>
         </div>
@@ -710,7 +820,11 @@
         <div class="row justify-content-center text-center mb-5">
           <div class="col-lg-6 mb-5">
             <h2 class="font-weight-bold heading text-primary mb-4">
+
+              Agen Kami
+=======
               Our Agents
+
             </h2>
             <p class="text-black-50">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
@@ -729,6 +843,8 @@
               />
 
               <div class="person-contents">
+                <h2 class="mb-0"><a href="#">Dennis Michael</a></h2>
+=======
                 <h2 class="mb-0"><a href="#">James Doe</a></h2>
                 <span class="meta d-block mb-3">Real Estate Agent</span>
                 <p>
@@ -763,6 +879,8 @@
               />
 
               <div class="person-contents">
+                <h2 class="mb-0"><a href="#">Refki Joeta</a></h2>
+=======
                 <h2 class="mb-0"><a href="#">Jean Smith</a></h2>
                 <span class="meta d-block mb-3">Real Estate Agent</span>
                 <p>
@@ -797,6 +915,8 @@
               />
 
               <div class="person-contents">
+                <h2 class="mb-0"><a href="#">Fandy Sulthan</a></h2>
+=======
                 <h2 class="mb-0"><a href="#">Alicia Huston</a></h2>
                 <span class="meta d-block mb-3">Real Estate Agent</span>
                 <p>

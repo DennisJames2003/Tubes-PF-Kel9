@@ -68,6 +68,10 @@
               <li><a href="about.html">TENTANG</a></li>
               <li><a href="contact.html">KONTAK</a></li>
 
+
+              <li><a href="about.html">TENTANG</a></li>
+              <li><a href="contact.html">KONTAK</a></li>
+
             </ul>
 
             <a

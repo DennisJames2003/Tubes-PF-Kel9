@@ -87,8 +87,8 @@
     @vite('resources/js/app.js')
 
     <div class="gambar-container">
-        <img src="{{ Vite::asset('resources/images/rumahdijual.png') }}" alt="Gambar 1">
-        <img src="{{ Vite::asset('resources/images/rumahdijual.png') }}" alt="Gambar 2">
+        <img src="{{ Vite::asset('resources/images/remax.jpg') }}" alt="Gambar 1">
+        <img src="{{ Vite::asset('resources/images/remax2.jpg') }}" alt="Gambar 2">
     </div>
 
     <div class="video-container">

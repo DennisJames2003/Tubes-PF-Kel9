@@ -115,7 +115,7 @@ Route::get('exportPdf', [AgentController::class, 'exportPdf'])->name('agents.exp
 
 Route::get('/home', function () {
     return view('index');
-});
+})->name('home');
 
 Route::get('/', function () {
     return view('index');
